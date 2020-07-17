@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with Vue/Web develop
 - 💬 Ask me about iOS/Web
-- 📫 How to reach me: wangyingbo528@163.com
+- 📫 How to reach me: wangyingbo0528@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
