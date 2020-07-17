@@ -1,7 +1,21 @@
 ### Hi there 👋
 ----
 **I am an iOS developer **
+
+- 🔭 I’m currently working on Beijing
+- 🌱 I’m currently learning iOS/Swift/JavaScript/Shell
+- 👯 I’m looking to collaborate on open source project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about iOS
+- 📫 How to reach me: wangyingbo528@163.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 **❤️❤️I hope you like me❤️❤️**
+
+
+
+
 <!--
 **wangyingbo/wangyingbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
