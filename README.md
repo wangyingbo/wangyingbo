@@ -1,11 +1,11 @@
 ### Hi there 👋
 ----
-**I am an iOS developer **
+**I am an iOS developer,open source enthusiast **
 
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning iOS/Swift/JavaScript/Shell
 - 👯 I’m looking to collaborate on open source project
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Vue/Web develop
 - 💬 Ask me about iOS
 - 📫 How to reach me: wangyingbo528@163.com
 - 😄 Pronouns: ...
