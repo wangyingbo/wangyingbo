@@ -4,7 +4,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
 <!-- title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false& -->
-<img align="right" width="50%" height="500px" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=dark" />
+<img align="right" width="40%" height="400px" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=radical" />
 
 
 - 🔭 I’m currently working on Beijing
