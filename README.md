@@ -16,8 +16,8 @@
 - 🤔 I’m looking for help with Vue/Web development
 - 💬 Ask me about iOS/Web
 - 📫 How to reach me: wangyingbo0528@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 **❤️❤️&nbsp; I hope you like me&nbsp;❤️❤️**
 
