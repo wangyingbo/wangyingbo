@@ -7,7 +7,7 @@
 
 **😊😊 I am an iOS developer,open source enthusiast  😊😊**
 
-<img align="top" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
+<img align="right" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
 
 
 - 🔭 I’m currently working on Beijing
