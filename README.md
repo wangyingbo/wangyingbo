@@ -5,8 +5,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenYilong&title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false" /> -->
-<img align="right" width="30%" height="40%" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=radical" />
-<img align="right" width="30%" height="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
+<imgstyle="float:right" width="30%" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=radical" />
+<img align="right" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
 
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning iOS/Swift/JavaScript/Shell
