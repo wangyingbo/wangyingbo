@@ -4,7 +4,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenYilong&title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false" /> -->
-<img align="right" rightMargin="180px" width="40%" height="250px" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=radical" />
+<img align="right" rightMargin="380px" width="40%" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=radical" />
 
 
 - 🔭 I’m currently working on Beijing
