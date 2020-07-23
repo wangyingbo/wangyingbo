@@ -2,6 +2,10 @@
 ----
 **😊😊 I am an iOS developer,open source enthusiast  😊😊**
 
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false" />
+
+
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning iOS/Swift/JavaScript/Shell
 - 👯 I’m looking to collaborate on open source project
@@ -11,8 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false" />
 
 **❤️❤️I hope you like me❤️❤️**
 
