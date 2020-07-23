@@ -19,7 +19,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-**❤️❤️&nbsp;I hope you like me&nbsp;❤️❤️**
+**❤️❤️&nbsp; I hope you like me&nbsp;❤️❤️**
 
 
 
