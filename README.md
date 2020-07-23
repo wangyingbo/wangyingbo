@@ -13,13 +13,14 @@
 - 🤔 I’m looking for help with Vue/Web development
 - 💬 Ask me about iOS/Web
 - 📫 How to reach me: wangyingbo0528@gmail.com
+
+<img align="right" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 **❤️❤️I hope you like me❤️❤️**
-
-<img align="right" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
-
 
 
 
