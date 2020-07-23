@@ -8,6 +8,10 @@
 <img  align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=wangyingbo&theme=radical" />
 
 - 🔭 I’m currently working on Beijing
+
+<img align="right" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
+
+
 - 🌱 I’m currently learning iOS/Swift/JavaScript/Shell
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with Vue/Web development
@@ -15,9 +19,6 @@
 - 📫 How to reach me: wangyingbo0528@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<img align="right" width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangyingbo&theme=radical&hide_langs_below=0" />
 
 **❤️❤️I hope you like me❤️❤️**
 
