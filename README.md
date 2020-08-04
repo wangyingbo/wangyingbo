@@ -19,7 +19,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<img align="right" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif" width="300">
+<img align="right" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif" width="100">
 
 **❤️❤️&nbsp; I hope you like me&nbsp;❤️❤️**
 
