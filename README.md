@@ -20,7 +20,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 **❤️❤️&nbsp; I hope you like me&nbsp;❤️❤️**
-
+<img align="left" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif" width="300">
 ----
 
 
