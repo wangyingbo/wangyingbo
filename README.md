@@ -23,9 +23,9 @@
 **❤️❤️&nbsp; I hope you like me&nbsp;❤️❤️**
 
 ----
-<p align="middle"> 
+<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wangyingbo/count.svg" />
+  <img src="https://profile-counter.glitch.me/wangyingbo/count.svg" /><br>
   <img src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif" width="100">
 </p>
 
