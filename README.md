@@ -21,7 +21,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/wangyingbo/PrivateImages/master/2020/pikachu.gif" width="200">
 
-<img align="right" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/shin_chan.gif" width="200">
+<img align="right" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/shin_chan.gif" width="100">
 
 **❤️❤️&nbsp; I hope you like me&nbsp;❤️❤️**
 
