@@ -30,11 +30,18 @@
 
 <!-- https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif -->
 <img align="right" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//pikachu.gif" width="200">
+
+<!-- https://raw.githubusercontent.com/wangyingbo/PrivateImages/master/2020/tenor.gif -->
+<img align="center" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif" width="100">
+
 <!-- https://raw.githubusercontent.com/wangyingbo/Leecason/master/shin_chan.gif -->
 <img align="left" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
 
-
-
+<!--
+![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif)
+![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif)
+![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//pikachu.gif)
+-->
 
 
 
