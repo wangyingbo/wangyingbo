@@ -26,7 +26,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wangyingbo/count.svg" />
-  <img src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif" width="100">
+  <img align="center" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif" width="100">
 </p>
 
 <!-- https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif -->
