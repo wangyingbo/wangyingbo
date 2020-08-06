@@ -25,8 +25,15 @@
 ----
 
 <img align="right" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif" width="200">
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wangyingbo/count.svg" />
+</p>
 <img align="left" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/shin_chan.gif" width="100">
+
+
+
+
 
 
 
