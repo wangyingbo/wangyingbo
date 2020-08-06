@@ -24,7 +24,7 @@
 
 ----
 
-<img align="right" src="https://pic.downk.cc/item/5f2b778c14195aa59449608e.gif" width="200">
+<img align="right" src="https://sbimg.cn/image/o33PN" width="200">
 
 <img align="left" src="https://pic.downk.cc/item/5f2b778c14195aa594496092.gif" width="100">
 
