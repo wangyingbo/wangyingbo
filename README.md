@@ -28,7 +28,7 @@
   <img src="https://profile-counter.glitch.me/wangyingbo/count.svg" /><br>
   <img src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif" width="100">
   <img align="left" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
-  <img align="right" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//pikachu.gif" width="200">
+  <img align="right" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
 </p>
 
 <!-- https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif -->
