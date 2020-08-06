@@ -24,9 +24,9 @@
 
 ----
 
-<img align="right" src="https://sbimg.cn/image/o33PN" width="200">
+<img align="right" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/pikachu.gif" width="200">
 
-<img align="left" src="https://pic.downk.cc/item/5f2b778c14195aa594496092.gif" width="100">
+<img align="left" src="https://raw.githubusercontent.com/wangyingbo/Leecason/master/shin_chan.gif" width="100">
 
 
 
