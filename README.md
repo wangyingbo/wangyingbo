@@ -26,7 +26,7 @@
 <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/wangyingbo/count.svg" /><br>
-  <img src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif" width="100">
+  <img src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//maruko.gif" width="100">
   <img align="left" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
   <img align="right" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
 </p>
@@ -41,10 +41,10 @@
 
 
 <!-- gitee上动图链接
-![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif)
-![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif)
-![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//maruko.gif)
-![](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//pikachu.gif)
+![蜡笔小新](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif)
+![马里奥](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//tenor.gif)
+![小丸子](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//maruko.gif)
+![皮卡丘](https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//pikachu.gif)
 -->
 
 
