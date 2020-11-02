@@ -1,7 +1,7 @@
 ### Hi there 👋👏👏👏
 ----
 
-**😊😊 &nbsp;I am an iOS developer,open source enthusiast &nbsp;😊😊**
+**😊😊 &nbsp;I am an iOS developer,an open source enthusiast &nbsp;😊😊**
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md -->
