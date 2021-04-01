@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on open source project;
 - 🤔 I’m looking for help with Vue/Web development;
 - 💬 Ask me about iOS/Ojbective-C/JavaScript/Shell/MicroProgram;
-- 📫 How to reach me: wangyingbo0528@gmail.com;
+- 📫 How to reach me: wybgit@gmail.com;
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
