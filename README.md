@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on Beijing;
-- 🌱 I’m currently learning iOS/Swift/JavaScript/Shell/MicroProgram/Golang/Python;
+- 🌱 I’m currently learning iOS/Swift/JavaScript/Shell/MicroProgram/Golang/Python/Ruby/Rust;
 - 👯 I’m looking to collaborate on open source project;
 - 🤔 I’m looking for help with Vue/Web development;
 - 💬 Ask me about iOS/Ojbective-C/JavaScript/Shell/MicroProgram;
