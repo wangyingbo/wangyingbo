@@ -32,7 +32,9 @@
 </p>
 
 ----
-![Metrics](https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg)
+<img align="center" src="https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg">
+
+<!--    ![Metrics](https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg)    -->
 
 
 
