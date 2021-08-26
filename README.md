@@ -34,7 +34,7 @@
 ----
 
 <p align="center">
-    <img src="https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg" alt="Metrics" width=60%>
+    <img src="https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg" alt="Metrics">
 </p>
 
 <!--    ![Metrics](https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg)    -->
