@@ -31,11 +31,13 @@
   <img align="right" src="https://gitee.com/wangyingbo/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
 </p>
 
-----
 
+<!--
+----
 <p align="center">
     <img src="https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg" alt="Metrics">
 </p>
+-->
 
 <!--    ![Metrics](https://github.com/wangyingbo/wangyingbo/blob/master/github-metrics.svg)    -->
 
